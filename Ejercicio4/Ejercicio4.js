@@ -1,4 +1,5 @@
 
+document.getElementById('letrDNI').addEventListener("click",letraDni);
 function letraDni(){
 
     // declarar variables
